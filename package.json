@@ -1,0 +1,9 @@
+{
+  "name": "atom-sonots",
+  "main": "./lib/atom-sonots",
+  "version": "0.0.0",
+  "description": "sonots benri",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
